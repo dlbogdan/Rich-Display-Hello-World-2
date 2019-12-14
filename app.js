@@ -7,7 +7,7 @@ function app() {
   display.helloScreen.execute();
 
   if (submit) {
-    pjs.messageBox("Welcome to NodeRun, " + yourName + "!");
+    pjs.messageBox("Testing NodeRun, " + yourName + "!");
   }
 
 }
